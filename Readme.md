@@ -4,4 +4,4 @@
 
 ### Credit : **Alexandre PALO**
 
-### Licence : **Open**
+### Licence : **MIT**
