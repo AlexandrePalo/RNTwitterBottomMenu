@@ -176,7 +176,8 @@ const styles = StyleSheet.create({
     menu: {
         width,
         backgroundColor: 'white',
-        borderRadius: 15,
+        borderTopLeftRadius: 15,
+        borderTopRightRadius: 15,
         padding: 20,
         alignItems: 'center',
     },
